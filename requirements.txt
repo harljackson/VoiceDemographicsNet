@@ -1,0 +1,18 @@
+# Primary Deep Learning Framework
+tensorflow
+# Note: Keras is included with TensorFlow
+
+# Audio Processing and Feature Extraction
+librosa
+
+# Data Handling and Scientific Computing
+numpy
+pandas
+scikit-learn
+
+# Data Loading (Hugging Face Datasets)
+datasets
+
+# Visualization (This is optional but useful for data analysis)
+matplotlib
+seaborn
