@@ -1,0 +1,35 @@
+.main-header {
+    text-align: center;
+    padding: 1rem 0 2rem 0;
+}
+
+.result-box {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 2rem;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.result-gender {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.result-confidence {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+.prob-card {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin: 1rem 0;
+    border-left: 4px solid #667eea;
+}
+
+.stProgress > div > div > div {
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+}
