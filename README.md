@@ -81,8 +81,4 @@ explicit confidence reporting
 The system is intended for research and educational use only.
 
 👤 Author
-Harley Jackson.
-
 Harley Jackson
-🎓 BSc Computer Science
-📘 Machine Learning Coursework Project
